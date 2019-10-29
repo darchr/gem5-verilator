@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/tmp/others/bogus_reset/bogus_reset.cpp

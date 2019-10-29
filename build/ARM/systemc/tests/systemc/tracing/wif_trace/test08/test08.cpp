@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/tracing/wif_trace/test08/test08.cpp

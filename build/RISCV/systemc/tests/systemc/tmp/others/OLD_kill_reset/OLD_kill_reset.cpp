@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/tmp/others/OLD_kill_reset/OLD_kill_reset.cpp

@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/datatypes/int/reduce/test02/test02.cpp

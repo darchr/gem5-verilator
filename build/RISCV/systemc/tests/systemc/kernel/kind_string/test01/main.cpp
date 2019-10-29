@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/kernel/kind_string/test01/main.cpp

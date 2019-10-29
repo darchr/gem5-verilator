@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/kernel/phase_callbacks/test04/register_phase_callbacks.cpp

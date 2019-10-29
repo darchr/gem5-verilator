@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/misc/user_guide/async_chn/test2/test2.cpp

@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/misc/synth/combo/switch6/switch6.cpp

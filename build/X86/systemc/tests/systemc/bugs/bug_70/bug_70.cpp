@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/bugs/bug_70/bug_70.cpp

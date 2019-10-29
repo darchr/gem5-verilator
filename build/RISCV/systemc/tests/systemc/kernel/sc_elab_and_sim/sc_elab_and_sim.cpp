@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/kernel/sc_elab_and_sim/sc_elab_and_sim.cpp

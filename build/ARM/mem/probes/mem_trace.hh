@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/mem/probes/mem_trace.hh

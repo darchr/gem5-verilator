@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/kernel/process_control/reset/method_reset_throw/sc_method_reset_throw.cpp

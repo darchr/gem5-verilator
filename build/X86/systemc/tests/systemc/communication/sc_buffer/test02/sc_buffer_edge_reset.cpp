@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/communication/sc_buffer/test02/sc_buffer_edge_reset.cpp

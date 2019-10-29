@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/tmp/others/sync_reset/sync_reset.cpp

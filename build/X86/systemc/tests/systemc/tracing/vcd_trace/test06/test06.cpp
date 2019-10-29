@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/tracing/vcd_trace/test06/test06.cpp

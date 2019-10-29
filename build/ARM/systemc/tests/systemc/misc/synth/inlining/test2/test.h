@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/misc/synth/inlining/test2/test.h

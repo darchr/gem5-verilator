@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/bugs/sc_string_bracket_assign/sc_string_bracket_assign.cpp

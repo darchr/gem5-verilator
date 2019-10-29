@@ -1,0 +1,4 @@
+TARGET_ISA = 'null'
+CPU_MODELS = 'none'
+USE_KVM = False
+PROTOCOL = 'MI_example'

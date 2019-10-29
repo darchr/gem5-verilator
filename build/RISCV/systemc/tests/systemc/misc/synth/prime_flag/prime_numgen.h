@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/misc/synth/prime_flag/prime_numgen.h

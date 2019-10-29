@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/bugs/async_reset_init/async_reset_init.cpp

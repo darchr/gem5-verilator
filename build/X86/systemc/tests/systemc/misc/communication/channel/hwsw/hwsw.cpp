@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/misc/communication/channel/hwsw/hwsw.cpp

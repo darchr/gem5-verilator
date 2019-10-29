@@ -1,0 +1,1 @@
+/home/nganjehl/gem5/src/systemc/tests/systemc/bugs/instantiation_detection/instantiation_detection.cpp
