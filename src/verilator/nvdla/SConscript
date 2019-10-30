@@ -29,9 +29,9 @@
 
 Import('*')
 
-if env['USE_NVDLA']
-	SimObject('NVDLAWrapper.py')
-	Source('nvdla_wrapper.cc')
+if env['USE_NVDLA']:
+        SimObject('NVDLAWrapper.py')
+        Source('nvdla_wrapper.cc')
 
 	SimObject('NVDLASystem.py')
 	#Source('system.cc')

@@ -30,8 +30,8 @@
 Import('*')
 
 sticky_vars.AddVariables(
-    BoolVariable('USE_DINOCPU', 'Enable DINOCPU build', False)
-    BoolVariable('USE_NVDLA', 'Enable NVDLA build', True)
+    BoolVariable('USE_DINOCPU', 'Enable DINOCPU build', True),
+    BoolVariable('USE_NVDLA', 'Enable NVDLA build', False)
     )
 
 export_vars.append('USE_DINOCPU')
